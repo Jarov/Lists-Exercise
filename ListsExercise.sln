@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LIS", "02.LIS\02.LIS.csproj", "{A548D018-3155-4CF8-ACB0-0A1C049F66AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ArrayManipulator", "03.ArrayManipulator\03.ArrayManipulator.csproj", "{BC4E79E2-1219-44A6-AB36-B90FDC96B29A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A548D018-3155-4CF8-ACB0-0A1C049F66AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A548D018-3155-4CF8-ACB0-0A1C049F66AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A548D018-3155-4CF8-ACB0-0A1C049F66AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A548D018-3155-4CF8-ACB0-0A1C049F66AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4E79E2-1219-44A6-AB36-B90FDC96B29A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4E79E2-1219-44A6-AB36-B90FDC96B29A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4E79E2-1219-44A6-AB36-B90FDC96B29A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4E79E2-1219-44A6-AB36-B90FDC96B29A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
