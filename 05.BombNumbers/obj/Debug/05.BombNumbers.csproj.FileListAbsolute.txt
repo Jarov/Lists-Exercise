@@ -1,0 +1,6 @@
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\05.BombNumbers\bin\Debug\05.BombNumbers.exe.config
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\05.BombNumbers\bin\Debug\05.BombNumbers.exe
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\05.BombNumbers\bin\Debug\05.BombNumbers.pdb
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\05.BombNumbers\obj\Debug\05.BombNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\05.BombNumbers\obj\Debug\05.BombNumbers.exe
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\05.BombNumbers\obj\Debug\05.BombNumbers.pdb

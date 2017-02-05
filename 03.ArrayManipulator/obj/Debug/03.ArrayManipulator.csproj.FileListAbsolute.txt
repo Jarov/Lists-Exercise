@@ -1,0 +1,9 @@
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\03.ArrayManipulator\bin\Debug\03.ArrayManipulator.exe.config
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\03.ArrayManipulator\bin\Debug\03.ArrayManipulator.exe
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\03.ArrayManipulator\bin\Debug\03.ArrayManipulator.pdb
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\03.ArrayManipulator\obj\Debug\03.ArrayManipulator.exe
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\03.ArrayManipulator\obj\Debug\03.ArrayManipulator.pdb
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\03.ArrayManipulator\obj\Debug\03.ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\03.ArrayManipulator\bin\Debug\03.ArrayManipulator.exe.config
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\03.ArrayManipulator\obj\Debug\03.ArrayManipulator.exe
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\03.ArrayManipulator\obj\Debug\03.ArrayManipulator.pdb

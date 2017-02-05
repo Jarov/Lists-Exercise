@@ -1,0 +1,12 @@
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\Lists-Exercise\04.SumReversedNumbers\bin\Debug\04.SumReversedNumbers.exe.config
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\Lists-Exercise\04.SumReversedNumbers\bin\Debug\04.SumReversedNumbers.exe
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\Lists-Exercise\04.SumReversedNumbers\bin\Debug\04.SumReversedNumbers.pdb
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\Lists-Exercise\04.SumReversedNumbers\obj\Debug\04.SumReversedNumbers.exe
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\Lists-Exercise\04.SumReversedNumbers\obj\Debug\04.SumReversedNumbers.pdb
+C:\Users\Jarov\Desktop\SoftUni exercises\ListsExercise\ListsExercise\Lists-Exercise\04.SumReversedNumbers\obj\Debug\04.SumReversedNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\04.SumReversedNumbers\bin\Debug\04.SumReversedNumbers.exe.config
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\04.SumReversedNumbers\obj\Debug\04.SumReversedNumbers.exe
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\04.SumReversedNumbers\obj\Debug\04.SumReversedNumbers.pdb
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\04.SumReversedNumbers\bin\Debug\04.SumReversedNumbers.exe
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\04.SumReversedNumbers\bin\Debug\04.SumReversedNumbers.pdb
+C:\Users\Jarov\Desktop\School\SoftUni exercises\Lists-Exercise\04.SumReversedNumbers\obj\Debug\04.SumReversedNumbers.csprojResolveAssemblyReference.cache

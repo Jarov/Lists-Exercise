@@ -10,22 +10,38 @@ namespace _05.BombNumbers
     {
         static void Main(string[] args)
         {
-            List<int> numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
-            List<int> numbersToRemove = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
+            List<int> numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToList(); 
+            List<int> bombard = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
 
-            for (int index = 0; index < numbersToRemove.Count; index++)
+            while (numbers.Contains(bombard[0]))
             {
-                numbers.RemoveAll(x => x == numbersToRemove[index]);
+                int bombardedNumberCount = 1;
+
+                int index = numbers.FindIndex(x => x == bombard[0]);
+
+                while (bombardedNumberCount <= bombard[1] && bombardedNumberCount <= index)
+                {
+                    numbers.RemoveAt(index - bombardedNumberCount);
+                    bombardedNumberCount++;
+                }
+
+                bombardedNumberCount = bombard[1];
+
+                index = numbers.FindIndex(x => x == bombard[0]);
+
+                if (bombardedNumberCount > numbers.Count - 1 - index)
+                    bombardedNumberCount = numbers.Count - 1 - index;
+
+                while (bombardedNumberCount > 0)
+                {
+                    numbers.RemoveAt(index + bombardedNumberCount);
+                    bombardedNumberCount--;
+                }
+
+                numbers.RemoveAt(index);
             }
 
-            int sum = 0;
-
-            for (int index = 0; index < numbers.Count; index++)
-            {
-                sum += numbers[index];
-            }
-
-            Console.WriteLine(sum);
+            Console.WriteLine(numbers.Sum());
         }
     }
 }
